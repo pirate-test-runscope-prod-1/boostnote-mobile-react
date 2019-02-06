@@ -1454,7 +1454,7 @@
 				CODE_SIGN_STYLE = Manual;
 				CURRENT_PROJECT_VERSION = 1;
 				DEAD_CODE_STRIPPING = NO;
-				DEVELOPMENT_TEAM = 285W24646W;
+				DEVELOPMENT_TEAM = UBF8T346G9;
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(SRCROOT)/../node_modules/react-native-fetch-blob/ios/**",
@@ -1469,10 +1469,10 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "v-koand.com.openid.boostnote";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.microsoft.runscope.all";
 				PRODUCT_NAME = boostnotemobile;
-				PROVISIONING_PROFILE = "2bef1a0b-7a42-4760-9186-0c9f38b3be22";
-				PROVISIONING_PROFILE_SPECIFIER = "AppCenter test app Boostnote ReactNative";
+				PROVISIONING_PROFILE = "5fc8b8fe-a070-48dd-8dc5-5aef62e0e346";
+				PROVISIONING_PROFILE_SPECIFIER = "Appcenter Runscope Test Development";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 			};
@@ -1485,7 +1485,7 @@
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_STYLE = Manual;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = 285W24646W;
+				DEVELOPMENT_TEAM = UBF8T346G9;
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(SRCROOT)/../node_modules/react-native-fetch-blob/ios/**",
@@ -1500,10 +1500,10 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "v-koand.com.openid.boostnote";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.microsoft.runscope.all";
 				PRODUCT_NAME = boostnotemobile;
-				PROVISIONING_PROFILE = "2bef1a0b-7a42-4760-9186-0c9f38b3be22";
-				PROVISIONING_PROFILE_SPECIFIER = "AppCenter test app Boostnote ReactNative";
+				PROVISIONING_PROFILE = "5fc8b8fe-a070-48dd-8dc5-5aef62e0e346";
+				PROVISIONING_PROFILE_SPECIFIER = "Appcenter Runscope Test Development";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 			};
